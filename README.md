@@ -92,5 +92,5 @@ Soy **Desarrollador Backend** y estudiante avanzado de la **Licenciatura en Sist
 ---
 
 ### 📬 Conectemos
-*   🔗 **LinkedIn:** [linkedin.com/in/joaquín-sueyro](https://linkedin.com/in/joaqu%C3%ADn-sueyro)
+*   🔗 **LinkedIn:** [linkedin.com/in/joaquín-sueyro](www.linkedin.com/in/joaquín-sueyro-189b63206)
 *   🐙 **GitHub:** [github.com/JoakoS03](https://github.com/JoakoS03)
