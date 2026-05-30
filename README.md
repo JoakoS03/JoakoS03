@@ -80,14 +80,24 @@ Soy **Desarrollador Backend** y estudiante avanzado de la **Licenciatura en Sist
 *   **Tecnologías:** Python, Redes Neuronales Convolucionales (CNN), algoritmos de Computer Vision.
 *   **Resultados:** Automatización del conteo de piezas y apoyo en la toma de decisiones estratégicas de inventario en tiempo real.
 
----
+### 📊 Actividad en GitHub
 
-### 📊 Estadísticas de GitHub
+Aquí puedes ver un resumen de mis contribuciones recientes:
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/009688/JoakoS03" alt="Gráfico de Contribuciones de Joaquín" />
+</p>
+
+<!-- 
+> [!NOTE]
+> La tarjeta de estadísticas de abajo utiliza un servicio público gratuito (github-readme-stats) que a veces se cae o supera el límite de peticiones de GitHub.
+> Si deseas activarla, simplemente elimina los comentarios `<!--` y `-->` de este bloque.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JoakoS03&show_icons=true&theme=radical&locale=es" alt="Estadísticas de Joaquín" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoakoS03&layout=compact&theme=radical&locale=es" alt="Lenguajes más usados" width="48%" />
 </p>
+-->
 
 ---
 
