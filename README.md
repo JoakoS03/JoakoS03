@@ -17,10 +17,10 @@
 
 ### 👤 Sobre Mí
 
-Soy **Desarrollador Backend** y estudiante avanzado de la **Licenciatura en Sistemas** en la **Universidad Nacional de La Plata (UNLP)**. Me apasiona el desarrollo de software y la **Inteligencia Artificial**.
+Soy **Desarrollador Backend** y estudiante avanzado de la **Licenciatura en Sistemas** en la **Universidad Nacional de La Plata (UNLP)**. Me gusta el desarrollo de software y la **Inteligencia Artificial**.
 
 *   💻 Trabajando como **Desarrollador de Software** en la Dirección de Digitalización e IA de la Provincia de Buenos Aires, enfocado en modernizar procesos gubernamentales.
-*   🧠 Diplomado en **Inteligencia Artificial** (Universidad Austral), con especialización en Computer Vision y agentes inteligentes.
+*   🧠 Diplomado en **Inteligencia Artificial** (Universidad Austral).
 *   🔍 Ex-investigador estudiante en el Observatorio de los Valores del Suelo Inmobiliario (UNLP).
 *   📍 Ubicación: Berisso, Buenos Aires, Argentina.
 
